@@ -1,0 +1,23 @@
+{
+  "name": "node-hangman",
+  "version": "1.0.0",
+  "description": "CLI Hangman Game",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/stehar14/Node-Hangman"
+  },
+  "keywords": [
+    "CLI",
+    "node",
+    "hangman"
+  ],
+  "author": "Steve Harold (stehar14)",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
