@@ -2,9 +2,9 @@
 // Steve Harold (stehar14)
 
 // Letter constructor
-var Letter = function(ltr) {
+var Letter = function(letter) {
 // Store the letter 
-  this.letter = ltr;
+  this.letter = letter;
 // Boolean value determining whether a letter displays as itself or an underscore
   this.appear = false;
 // Function to render word with dashes as unguessed letters
